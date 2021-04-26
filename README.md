@@ -18,5 +18,5 @@ mvn clean install<br />
 mvn spring-boot:run<br />
 
 
-[Run the Front End before running Back End](https://github.com/Ziyang-Wang/AttedanceAppFrontend)
+[Run the Front End after setting up Back End](https://github.com/Ziyang-Wang/AttedanceAppFrontend)
 
